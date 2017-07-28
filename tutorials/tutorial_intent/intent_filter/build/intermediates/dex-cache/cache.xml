@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ideo/Документы/android/tutorial/tutorial_intent/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fcce2e284b0d056338d72c59bdf152e712fc508">
+        <dex dex="/home/ideo/Документы/android/tutorial/tutorial_intent/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_764533b9b7a09b6d7fa39d5d951bc3abe17cadfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ideo/Документы/android/tutorial/tutorial_intent/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/ideo/Документы/android/tutorial/tutorial_intent/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f18d0658c66870f02a83ac9f43801eea56613971/classes.dex" />
+    </item>
+
+</items>

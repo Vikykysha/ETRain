@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/sensorText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge">
+    </TextView>
+    <TextView
+        android:id="@+id/num"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge">
+    </TextView>
+    <TextView
+        android:id="@+id/text1AndroidSensor"
+        android:layout_width="186dp"
+        android:layout_height="29dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="Количество приседаний:"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.SearchResult.Subtitle"
+        />
+    <TextView
+        android:id="@+id/numOfSquats"
+        android:layout_width="186dp"
+        android:layout_height="29dp"
+
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.SearchResult.Subtitle"
+        />
+    <TextView
+        android:id="@+id/varning"
+        android:layout_width="186dp"
+        android:layout_height="29dp"
+
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.SearchResult.Subtitle"
+        />
+
+    <Button
+        android:id="@+id/buttonGraph2"
+        style="@android:style/Widget.Button.Small"
+        android:layout_width="356dp"
+        android:layout_height="57dp"
+
+
+        android:onClick="newScreen2"
+
+        android:text="Статистика"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textSize="30sp" />
+</LinearLayout>

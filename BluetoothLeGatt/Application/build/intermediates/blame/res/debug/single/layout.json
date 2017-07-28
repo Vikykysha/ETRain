@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\test for android\\android\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\graph_of_asensor.xml",
+        "source": "C:\\test for android\\android\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\graph_of_asensor.xml"
+    },
+    {
+        "merged": "C:\\test for android\\android\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\graph.xml",
+        "source": "C:\\test for android\\android\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\graph.xml"
+    },
+    {
+        "merged": "C:\\test for android\\android\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\button_control.xml",
+        "source": "C:\\test for android\\android\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\button_control.xml"
+    },
+    {
+        "merged": "C:\\test for android\\android\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\sensor_android.xml",
+        "source": "C:\\test for android\\android\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\sensor_android.xml"
+    },
+    {
+        "merged": "C:\\test for android\\android\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\gatt_services_characteristics.xml",
+        "source": "C:\\test for android\\android\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "C:\\test for android\\android\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
+        "source": "C:\\test for android\\android\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "C:\\test for android\\android\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\launcher.xml",
+        "source": "C:\\test for android\\android\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\launcher.xml"
+    },
+    {
+        "merged": "C:\\test for android\\android\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "C:\\test for android\\android\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\listitem_device.xml"
+    }
+]
